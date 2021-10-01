@@ -1,6 +1,8 @@
 # Gabor-Filter-HPC
 
-##Execução em Serial
+## Execução em Serial
+
+Bla Bla
 
 
-##Execução em Paralelo Utilizando OpenMP
+## Execução em Paralelo Utilizando OpenMP
