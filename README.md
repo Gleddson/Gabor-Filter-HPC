@@ -11,7 +11,7 @@ No momento de executar o código é necessário passar como parâmetro na linha 
 
 A imagem a seguir representa um exemplo de saída do Filtro produzido neste trabalho
 
-![Screenshot](Saída Filtro de Gabor.png)
+![Screenshot](Saída_Filtro_de_Gabor.png)
 
 ## Execução em Serial
 
