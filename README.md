@@ -13,11 +13,25 @@ A imagem a seguir representa um exemplo de saída do Filtro produzido neste trab
 
 ![Screenshot](Saída_Filtro_de_Gabor.png)
 
+
 ## Execução em Serial
 
-Bla Bla
+Para a execução em serial é necessário:
 
+* dentro de CMakeList, substituir 'nomearquivo.cpp' pelo arquivo desejado.
+* dentro de CMakeList, substituir 'executavel' pelo nome do que se deseja para o arquivo executável
+
+* executar $ cmake .
+* executar $ make
+* executar $./nome_do_exectavel nome_imagem
 
 ## Execução em Paralelo Utilizando OpenMP
 
-Bla bla
+Para a execução em paralelo é necessário:
+
+* dentro de CMakeList, substituir 'nomearquivo.cpp' pelo arquivo desejado.
+* dentro de CMakeList, substituir 'executavel' pelo nome do que se deseja para o arquivo executável
+
+* executar $ cmake .
+* executar $ make
+* executar $./nome_do_exectavel nome_imagem num_threads
