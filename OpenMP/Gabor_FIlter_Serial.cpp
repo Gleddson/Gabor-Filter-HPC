@@ -26,10 +26,6 @@ int main(int argc, char* argv[]){
     int y_kernel, x_kernel;
     int i, j;
 
-    int num_cores;
-    
-    num_cores = atoi(argv[2]);
-
     sigma = 5;
     theta = 0;
     lamda = PI/4;
