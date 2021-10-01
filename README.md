@@ -9,6 +9,10 @@ Para executar o código é necessário instalar o Opencv, de preferência utiliz
 
 No momento de executar o código é necessário passar como parâmetro na linha de comando o nome da imagem que se deseja aplicar o filtro e a quantidade de threads que se deseja utilizar no paralelismo.
 
+A imagem a seguir representa um exemplo de saída do Filtro produzido neste trabalho
+
+![Screenshot](Saída Filtro de Gabor.png)
+
 ## Execução em Serial
 
 Bla Bla
