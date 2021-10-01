@@ -2,8 +2,8 @@
 
 ## Autores 
 
-Gledson de Oliveira [@gleddson]
-Gustavo Coelho [@GustavoAACoelho]
+Gledson de Oliveira [@gleddson].
+Gustavo Coelho [@GustavoAACoelho].
 
 A implementação do filtro de Gabour na linguagem C/C++ foi realizada a partir do auxilio da biblioteca Opencv. O objetivo principal do uso da biblioteca foi a facilidade apresentada por ela para obtenção e manipulação de pixels de imagens. A implementação como um todo consiste na definição de um filtro de Gabour, que foi criado a partir da utilização de funções do opencv. A partir disso o filtro é apicado na imagem, pixel por pixel. 
 
