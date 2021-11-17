@@ -48,4 +48,4 @@ Para a execução em paralelo é necessário:
 
 Para executar remotamente e em paralelo no cluster, execute o seguinte comando no terminal:
 
-* nohup mpirun -np <<"nprocessos">> -machinefile mf <<"mpi-executavel">> 
+* nohup mpirun -np <"nprocessos"> -machinefile mf <"mpi-executavel"> 
