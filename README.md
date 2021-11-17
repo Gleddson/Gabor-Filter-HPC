@@ -43,3 +43,5 @@ Para a execução em paralelo é necessário:
 * executar $ cmake .
 * executar $ make
 * executar $./nome_do_exectavel nome_imagem num_threads
+
+## Execução em Paralelo Utilizando MPI
