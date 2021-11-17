@@ -45,3 +45,7 @@ Para a execução em paralelo é necessário:
 * executar $./nome_do_exectavel nome_imagem num_threads
 
 ## Execução em Paralelo Utilizando MPI
+
+Para executar remotamente e em paralelo no cluster, execute o seguinte comando no terminal:
+
+* nohup mpirun -np <nprocessos> -machinefile mf <mpi-executavel>
